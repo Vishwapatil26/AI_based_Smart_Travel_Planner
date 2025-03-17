@@ -9,7 +9,7 @@ Key Features
 - Dark Mode Support 🌙 – Seamlessly switch between light and dark themes for a comfortable viewing experience.
 - Interactive UI 🎨 – Designed with an intuitive layout for a smooth and hassle-free experience.
 
-🛠️ How It Works?
+🛠️ How It Works?    
 1️. Enter Travel Details – Input your source city, destination, and budget.    
 2️. Get Travel Suggestions – AI provides optimized travel options.    
 3️. Check Weather Updates – View current weather conditions for both locations.    
