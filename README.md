@@ -10,8 +10,8 @@ Key Features
 - Interactive UI 🎨 – Designed with an intuitive layout for a smooth and hassle-free experience.
 
 🛠️ How It Works?
-1️. Enter Travel Details – Input your source city, destination, and budget.
-2️. Get Travel Suggestions – AI provides optimized travel options.
+1️. Enter Travel Details – Input your source city, destination, and budget.< br / >
+2️. Get Travel Suggestions – AI provides optimized travel options.< br / >
 3️. Check Weather Updates – View current weather conditions for both locations.
 4️. Customize Your View – Toggle between light and dark themes.
 
