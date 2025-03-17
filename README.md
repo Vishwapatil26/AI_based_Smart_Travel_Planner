@@ -1,8 +1,8 @@
-AI-Powered Travel Planner – Smart Trip Planning with AI
+**AI-Powered Travel Planner – Smart Trip Planning with AI**
 
 This AI-based travel assistant helps users plan their trips efficiently by leveraging real-time travel insights, cost estimations, and weather updates. Built with Streamlit, it offers an interactive and user-friendly experience.
 
-Key Features
+_Key Features_
 - Real-time Travel Recommendations ✈️ – Get AI-generated travel options including flights, trains, buses, and cabs.
 - Budget-based Suggestions 💰 – Input your budget and receive personalized travel options within that range.
 - Weather Updates 🌦️ – Get the latest weather forecast for both source and destination cities.
